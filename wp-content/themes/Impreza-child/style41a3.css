@@ -1,0 +1,39 @@
+/*
+Theme Name: Impreza Child
+Template: Impreza
+Version: 1.0
+Author:	UpSolution
+Theme URI: http://impreza.us-themes.com/
+Author URI: http://us-themes.com/
+*/
+
+.l-section-img {top: 126px;}
+
+.two-thirds {vertical-align: top !important;}
+
+/* SUBSCRIBE TO BLOG */
+input#mc-embedded-subscribe.button {width: 100%;margin-top: 10px;}
+
+/* .w-img img {margin-left: 24px;} */
+.ezcol-one-half, .ezcol-one-third {hyphens:none !important;}
+
+/******************************
+FOOTER ************************/
+.u-logo {padding-right:10px;}
+.nsf-logo {padding-right:10px;}
+.logo-footer {float:left;border-bottom:none !important;}
+.dallasgrp-footer {margin-bottom:40px !important;}
+.footer-contact p:first-child {font-size:22px;}
+
+/******************************
+RESPONSIVE ********************/
+@media screen and (max-width: 940px) {
+.dallasgrp-footer .vc_col-sm-6 {width:100%;}
+.owner {margin-bottom:20px;}
+.u-logo {padding-right:4px;}
+.nsf-logo {padding-right:4px;}
+}
+
+@media screen and (max-width: 767px) {
+.owner {margin-bottom:0;}
+}
