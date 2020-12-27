@@ -1,0 +1,15 @@
+.dalsorb-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.dalsorb-logo > .logo-image {
+  width: 48px;
+  height: 50px;
+  margin-right: 5px;
+}
+
+.dalsorb-logo > .logo-text {
+  height: 35px;
+}
